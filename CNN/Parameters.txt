@@ -1,0 +1,34 @@
+[CNN_30]
+Total params: 4,257,359
+Trainable params: 4,248,431
+Non-trainable params: 8,928
+
+[CNN_29]
+Total params: 3,830,563
+Trainable params: 3,825,187
+Non-trainable params: 5,376
+
+[CNN_14]
+Total params: 3,970,203
+Trainable params: 3,965,163
+Non-trainable params: 5,040
+
+[CNN_11]
+Total params: 3,967,747
+Trainable params: 3,962,707
+Non-trainable params: 5,040
+
+[CNN_5]
+Total params: 7,656,891
+Trainable params: 7,649,211
+Non-trainable params: 7,680
+
+[CNN_3]
+Total params: 10,988,107
+Trainable params: 10,980,427
+Non-trainable params: 7,680
+
+[CNN_2]
+Total params: 8,815,275
+Trainable params: 8,811,435
+Non-trainable params: 3,840
