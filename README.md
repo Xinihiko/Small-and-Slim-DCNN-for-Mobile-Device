@@ -1,2 +1,8 @@
 # Small-and-Slim-DCNN-for-Mobile-Device
-This repo is for code of the same name paper published in IEEE Access
+This repo is for code of the same name paper published in [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9126546)
+
+## Abstract
+Recent development of deep convolutional neural networks (DCNN) devoted in creating a slim model for devices with lower specification such as embedded, mobile hardware, or microcomputer. Slim model can be achieved by minimizing computational complexity which theoretically will make processing time faster. Therefore, our focus is to build an architecture with minimum floating-point operation per second (FLOPs). In this work, we propose a small and slim architecture which later will be compared to state-of-the-art models. This architecture will be implemented into two models which are CustomNet and CustomNet2. Each of these models implements 3 convolutional blocks which reduce the computational complexity while maintains its accuracy and able to compete with state-of-the-art DCNN models. These models will be trained using ImageNet, CIFAR 10, CIFAR 100 and other datasets. The result will be compared based on accuracy, complexity, size, processing time, and trainable parameter. From the result, we found that one of our models which is CustomNet2, is better than MobileNet, MobileNet-v2, DenseNet, NASNetMobile in accuracy, trainable parameter, and complexity. For future implementation, this architecture can be adapted using region based DCNN for multiple object detection.
+
+## Reference
+A. S. Winoto, M. Kristianus and C. Premachandra, "Small and Slim Deep Convolutional Neural Network for Mobile Device," in IEEE Access, vol. 8, pp. 125210-125222, 2020, doi: 10.1109/ACCESS.2020.3005161.
